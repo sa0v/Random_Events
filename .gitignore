@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+
+# Ignore files created during compilation with TeXShop
+
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+
